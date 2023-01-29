@@ -6,6 +6,10 @@
 🛡️ Secure your external DNS request with DNS over TLS, configure RPZ option and build lists for a better and more efficient (reducing your carbon impact) web experience
  
 ## Prerequisites
+ * You need to have an account with doas set correctly
+ * Unbound enable and start:
+   * `rcctl enable unbound` 
+   * `rcctl start unbound` 
 
 ## Usage
 
