@@ -16,7 +16,7 @@
 ## RPZ
 
 * 2pz-l1s7-403-001.txt
-This list received all URi coming from 🇫🇷 SMS services not listed in the list 2pz-l1s7-ph15h1n9-001.txt
+This list received all URLs coming from 🇫🇷 SMS services not listed in the list 2pz-l1s7-ph15h1n9-001.txt
 
 ## Blueteam - Check new settings
 You can test you Unbound server configuration here:
