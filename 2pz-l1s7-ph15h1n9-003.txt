@@ -1,12 +1,15 @@
-$TTL 3600
-@ IN SOA localhost. root.localhost. (20230128050001 10800 604800 7200)
-  IN NS  localhost.
-
-alerte-espace-urgences.net CNAME .
-amelicontact.org CNAME .
-app-chronopost.com CNAME .
-compte-support-france.com CNAME .
-critair-paiement-gouv.net CNAME .
-sfresim.net CNAME .
-suivrecolischronopost.info CNAME .
+	local-zone: "alerte-espace-urgences.net" redirect
+  local-data: "alerte-espace-urgences.net 3600 IN A 0.0.0.0"
+	local-zone: "amelicontact.org" redirect
+	local-data: "amelicontact.org 3600 IN A 0.0.0.0"
+	local-zone: "app-chronopost.com" redirect
+	local-data: "app-chronopost.com 3600 IN A 0.0.0.0"
+	local-zone: "compte-support-france.com" redirect
+	local-data: "compte-support-france.com 3600 IN A 0.0.0.0"
+	local-zone: "critair-paiement-gouv.net" redirect
+	local-data: "critair-paiement-gouv.net 3600 IN A 0.0.0.0"
+	local-zone: "sfresim.net" redirect
+	local-data: "sfresim.net 3600 IN A 0.0.0.0"
+	local-zone: "suivrecolischronopost.info" redirect
+	local-data: "suivrecolischronopost.info 3600 IN A 0.0.0.0"
 
