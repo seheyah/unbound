@@ -1,5 +1,5 @@
 	local-zone: "alerte-espace-urgences.net" redirect
-  local-data: "alerte-espace-urgences.net 3600 IN A 0.0.0.0"
+	local-data: "alerte-espace-urgences.net 3600 IN A 0.0.0.0"
 	local-zone: "amelicontact.org" redirect
 	local-data: "amelicontact.org 3600 IN A 0.0.0.0"
 	local-zone: "app-chronopost.com" redirect
