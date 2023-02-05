@@ -10,8 +10,13 @@
  * Unbound enable and start:
    * `rcctl enable unbound` 
    * `rcctl start unbound` 
+   
+ * Activate the module here below in your configuration file (unbound.conf):
+ 
 
 ## Usage
+Depend of the context but sometimes we need to play with redirect or with RPZ.
+* redirect
 
 ## RPZ
 
