@@ -34,10 +34,11 @@ Depend of the context but sometimes we need to play with redirect or with __RPZ_
 
 ## Redirect
  * [2pz-l1s7-ph15h1n9-003.txt](https://github.com/seheyah/unbound/blob/main/2pz-l1s7-ph15h1n9-003.txt)<br>
-This list is a redirect received all TLD coming from 🇫🇷 SMS services not listed in the list in the list __2pz-l1s7-ph15h1n9-001.txt__.
+ This list is a redirect received all TLD coming from 🇫🇷 SMS services not listed in the list in the list __2pz-l1s7-ph15h1n9-001.txt__.
 
 ## RPZ
- *
+ * [2pz-l1s7-71k70k-001.txt](https://github.com/seheyah/unbound/blob/main/2pz-l1s7-71k70k-001.txt)<br>
+ This list is a RPZ with NXDomain action to the famous . so all T1kT0k will be disabled.
  
 ## Script
  * [unbound-ph15h1n9-001.sh](https://github.com/seheyah/unbound/blob/main/unbound-ph15h1n9-001.sh)<br>
