@@ -11,12 +11,16 @@
    * `rcctl enable unbound` 
    * `rcctl start unbound` 
    
- * Activate the module here below in your configuration file (unbound.conf):
+ * Activate modules here below in your configuration file `unbound.conf`:
+  * module-config: "respip validator iterator"
+ * Check your configuration file before reload:
+  * `unbound-checkconf /var/unbound/etc/unbound.conf`
+  * `rcctl reload unbound`
  
-
 ## Usage
 Depend of the context but sometimes we need to play with redirect or with RPZ.
-* redirect
+* redirect is used when you want to block all subdomains under a TLD, including those which do not yet exist. 
+* RPZ in more fine tuning you can apply policy for eachs records.
 
 ## RPZ
 
