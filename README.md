@@ -32,7 +32,8 @@ This list is a redirect received all TLD coming from 🇫🇷 SMS services not l
  *
  
 ## Script
- *
+ * [unbound-ph15h1n9-001.sh](https://github.com/seheyah/unbound/blob/main/unbound-ph15h1n9-001.sh)
+ This script download and format __redirect__ file coming from [Red Flag Domains](https://red.flag.domains)
  
 ## Blueteam - Check new settings
 You can test your Unbound server configuration here:
