@@ -20,6 +20,14 @@
    * `rcctl reload unbound`
  
 ## Usage
+For [unbound.conf](https://github.com/seheyah/unbound/blob/main/unbound.conf) change these values:<br>
+   * access-control: `your_network_here/CIDR_prefix` allow
+   * interface: `your_ip_here`
+   * private-address: `your_network_here/CIDR_prefix`
+
+For [unbound-ph15h1n9-001.sh](https://github.com/seheyah/unbound/blob/main/unbound-ph15h1n9-001.sh) update the backup path:<br>
+  * filebkp01="your_backup_path/2pz-l1s7-ph15h1n9-001.bkp"
+
 Depend of the context but sometimes we need to play with redirect or with __RPZ__.
  * __Redirect__ is used when you want to block all subdomains under a TLD, including those which do not yet exist. 
  * __RPZ__ in more fine tuning you can apply policy for eachs records, compare to __redirect__, if a record is not under __RPZ__ policy, resolution is provided❗️
