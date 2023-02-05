@@ -1,1 +1,12 @@
+$TTL 3600
+@ IN SOA localhost. root.localhost. (20230128050001 10800 604800 7200)
+  IN NS  localhost.
+
+alerte-espace-urgences.net CNAME .
+amelicontact.org CNAME .
+app-chronopost.com CNAME .
+compte-support-france.com CNAME .
+critair-paiement-gouv.net CNAME .
+sfresim.net CNAME .
+suivrecolischronopost.info CNAME .
 
