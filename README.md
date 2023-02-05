@@ -26,15 +26,15 @@ Depend of the context but sometimes we need to play with redirect or with __RPZ_
 
 ## Redirect
  * [2pz-l1s7-ph15h1n9-003.txt](https://github.com/seheyah/unbound/blob/main/2pz-l1s7-ph15h1n9-003.txt)<br>
-This list is a redirect received all TLD coming from 🇫🇷 SMS services not listed in the list in the list __2pz-l1s7-ph15h1n9-001.txt__
+This list is a redirect received all TLD coming from 🇫🇷 SMS services not listed in the list in the list __2pz-l1s7-ph15h1n9-001.txt__.
 
 ## RPZ
  *
  
 ## Script
  * [unbound-ph15h1n9-001.sh](https://github.com/seheyah/unbound/blob/main/unbound-ph15h1n9-001.sh)<br>
- This script download and format __redirect__ file coming from [Red Flag Domains](https://red.flag.domains)
- 💡Crontab @daily is quite enough
+ This script download and format __redirect__ file coming from [Red Flag Domains](https://red.flag.domains)<br>
+ 💡Crontab __@daily__ is quite enough.
  
 ## Blueteam - Check new settings
 You can test your Unbound server configuration here:
