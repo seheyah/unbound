@@ -14,9 +14,9 @@
 filebkp01="your_backup_path/2pz-l1s7-ph15h1n9-001.bkp"
 filerun01="/var/unbound/etc/2pz-l1s7-ph15h1n9-001.txt"
 filerun02="/var/unbound/etc/unbound.conf"
-filetmp01="/0-0-0-/tmp/0.txt"
-filetmp02="/0-0-0-/tmp/1.txt"
-filetmp03="/0-0-0-/tmp/2.txt"
+filetmp01="/tmp/0.txt"
+filetmp02="/tmp/1.txt"
+filetmp03="/tmp/2.txt"
 
 # STRING
 str0x00="unbound-53cu217y-ph15h1n9"
