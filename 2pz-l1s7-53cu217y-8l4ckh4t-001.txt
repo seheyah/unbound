@@ -1,0 +1,13 @@
+$TTL 3600
+@ IN SOA localhost. root.localhost. (20230110101010 10800 604800 7200)
+  IN NS  localhost.
+
+aff3trk.com CNAME .
+bingoplanet.com.tw CNAME .
+deaholid.online CNAME .
+gvdxop.xyz CNAME .
+holybaby.com.tw CNAME .
+lovebabyonline.com CNAME .
+moongallery.com.tw CNAME .
+rvzqo.impresivedate.com CNAME .
+
