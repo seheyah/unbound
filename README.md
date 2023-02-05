@@ -39,6 +39,8 @@ Depend of the context but sometimes we need to play with redirect or with __RPZ_
 ## RPZ
  * [2pz-l1s7-71k70k-001.txt](https://github.com/seheyah/unbound/blob/main/2pz-l1s7-71k70k-001.txt)<br>
  This list is a RPZ with NXDomain action to the famous . so all T1kT0k will be disabled.
+ * [2pz-l1s7-8l4ckh4t-001.txt](https://github.com/seheyah/unbound/blob/main/2pz-l1s7-8l4ckh4t-001.txt)<br>
+ This list is a RPZ with NXDomain action to the famous . so some __bad DNS entries__.
  
 ## Script
  * [unbound-ph15h1n9-001.sh](https://github.com/seheyah/unbound/blob/main/unbound-ph15h1n9-001.sh)<br>
