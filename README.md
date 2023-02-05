@@ -21,15 +21,19 @@
  
 ## Usage
 Depend of the context but sometimes we need to play with redirect or with __RPZ__.
-* __Redirect__ is used when you want to block all subdomains under a TLD, including those which do not yet exist. 
-* __RPZ__ in more fine tuning you can apply policy for eachs records, compare to __redirect__, if a record is not under __RPZ__ policy, resolution is provided❗️
+ * __Redirect__ is used when you want to block all subdomains under a TLD, including those which do not yet exist. 
+ * __RPZ__ in more fine tuning you can apply policy for eachs records, compare to __redirect__, if a record is not under __RPZ__ policy, resolution is provided❗️
 
 ## Redirect
+ * [2pz-l1s7-ph15h1n9-003.txt](https://github.com/seheyah/unbound/blob/main/2pz-l1s7-ph15h1n9-003.txt)<br>
+This list is a redirect received all TLD coming from 🇫🇷 SMS services not listed in the list in the list __2pz-l1s7-ph15h1n9-001.txt__
 
 ## RPZ
-* 2pz-l1s7-403-001.txt<br>
-This list received all URLs coming from 🇫🇷 SMS services not listed in the list **2pz-l1s7-ph15h1n9-001.txt**
-
+ *
+ 
+## Script
+ *
+ 
 ## Blueteam - Check new settings
 You can test your Unbound server configuration here:
  * [1.1.1.1](https://1.1.1.1/help)
