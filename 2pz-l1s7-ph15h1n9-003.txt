@@ -8,6 +8,8 @@
 	local-data: "compte-support-france.com 3600 IN A 0.0.0.0"
 	local-zone: "critair-paiement-gouv.net" redirect
 	local-data: "critair-paiement-gouv.net 3600 IN A 0.0.0.0"
+	local-zone: "critair-verification-gouv.net" redirect
+	local-data: "critair-verification-gouv.net 3600 IN A 0.0.0.0"
 	local-zone: "sfresim.net" redirect
 	local-data: "sfresim.net 3600 IN A 0.0.0.0"
 	local-zone: "suivrecolischronopost.info" redirect
