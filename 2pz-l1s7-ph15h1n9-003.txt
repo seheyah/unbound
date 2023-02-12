@@ -1,9 +1,9 @@
 	local-zone: "alerte-espace-urgences.net" redirect
 	local-data: "alerte-espace-urgences.net 3600 IN A 0.0.0.0"
-	local-zone: "antai-amendes-gouv.org" redirect
-	local-data: "antai-amendes-gouv.org 3600 A 0.0.0.0"
 	local-zone: "amelicontact.org" redirect
 	local-data: "amelicontact.org 3600 IN A 0.0.0.0"
+	local-zone: "antai-amendes-gouv.org" redirect
+	local-data: "antai-amendes-gouv.org 3600 A 0.0.0.0"
 	local-zone: "app-chronopost.com" redirect
 	local-data: "app-chronopost.com 3600 IN A 0.0.0.0"
 	local-zone: "compte-support-france.com" redirect
