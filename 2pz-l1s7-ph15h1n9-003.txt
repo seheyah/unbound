@@ -8,6 +8,8 @@
 	local-data: "app-chronopost.com 3600 IN A 0.0.0.0"
 	local-zone: "compte-support-france.com" redirect
 	local-data: "compte-support-france.com 3600 IN A 0.0.0.0"
+	local-zone: "chronopost-mobile.com" redirect
+	local-data: "chronopost-mobile.com 3600 IN A 0.0.0.0"
 	local-zone: "critair-paiement-gouv.net" redirect
 	local-data: "critair-paiement-gouv.net 3600 IN A 0.0.0.0"
 	local-zone: "critair-verification-gouv.net" redirect
