@@ -14,8 +14,12 @@
 	local-data: "critair-paiement-gouv.net 3600 IN A 0.0.0.0"
 	local-zone: "critair-verification-gouv.net" redirect
 	local-data: "critair-verification-gouv.net 3600 IN A 0.0.0.0"
+	local-zone: "mon-espacenetflix.com" redirect
+        local-data: "mon-espacenetflix.com 3600 IN A 0.0.0.0"
 	local-zone: "monespace-tv.com" redirect
 	local-data: "monespace-tv.com 3600 IN A 0.0.0.0"
+	local-zone: "paiement-contravention-gouv.com" redirect
+        local-data: "paiement-contravention-gouv.com 3600 IN A 0.0.0.0"
 	local-zone: "sfr-commande-e-sim.com" redirect
         local-data: "sfr-commande-e-sim.com 3600 IN A 0.0.0.0"
 	local-zone: "sfresim.net" redirect
