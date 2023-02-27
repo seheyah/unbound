@@ -12,6 +12,10 @@
   local-data: "holybaby.com.tw 3600 IN A 0.0.0.0"
   local-zone: "impresivedate.com" redirect
   local-data: "impresivedate.com 3600 IN A 0.0.0.0"
+  local-zone: "ixtlahuacan.gob.mx" redirect
+	local-data: "ixtlahuacan.gob.mx 3600 IN A 0.0.0.0"
+	local-zone: "lackadaisical-invented-tuck.glitch.me" redirect
+	local-data: "lackadaisical-invented-tuck.glitch.me 3600 IN A 0.0.0.0"
   local-zone: "lovebabyonline.com" redirect
   local-data: "lovebabyonline.com 3600 IN A 0.0.0.0"
   local-zone: "moongallery.com.tw" redirect
