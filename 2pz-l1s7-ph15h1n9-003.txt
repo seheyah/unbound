@@ -4,6 +4,8 @@
 	local-data: "amelicontact.org 3600 IN A 0.0.0.0"
 	local-zone: "antai-amendes-gouv.org" redirect
 	local-data: "antai-amendes-gouv.org 3600 A 0.0.0.0"
+	local-zone: "antai-infraction-gouv-paiement.net" redirect
+	local-data: "antai-infraction-gouv-paiement.net 3600 IN A 0.0.0.0"
 	local-zone: "app-chronopost.com" redirect
 	local-data: "app-chronopost.com 3600 IN A 0.0.0.0"
 	local-zone: "compte-support-france.com" redirect
