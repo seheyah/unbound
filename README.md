@@ -40,7 +40,7 @@ Depend of the context but sometimes we need to play with redirect or with __RPZ_
 
 ## RPZ (2pz)
  * [2pz-l1s7-71k70k-001.txt](https://github.com/seheyah/unbound/blob/main/2pz-l1s7-71k70k-001.txt)<br>
- This list is a RPZ with NXDomain action to the famous . so all T1kT0k will be disabled.
+ This list is a RPZ disabling all T1kT0k.
  * [2pz-l1s7-8l4ckh4t-001.txt](https://github.com/seheyah/unbound/blob/main/2pz-l1s7-8l4ckh4t-001.txt)<br>
  This list is a RPZ with sources not in the RPZ malware.
  * [2pz-l1s7-d0h-001.txt](https://github.com/seheyah/unbound/blob/main/2pz-l1s7-d0h-001.txt)<br>
