@@ -19,13 +19,12 @@ filetmp02="/tmp/1.txt"
 filetmp03="/tmp/2.txt"
 
 # STRING
-str0x00="unbound-53cu217y-ph15h1n9"
+str0x00="unbound-2d2-l1s7-ph15h1n9-001"
 str0x01="2d2-l1s7-ph15h1n9-001.txt"
 str0x02="2022/08/21"
 str0x03="Falken"
 str0x04="0xff"
 str0x05="https://dl.red.flag.domains/red.flag.domains.txt"
-str0x06="$(date +"%Y%m%d%H%M%S")"
 
 ### VARIABLE
 # INTEGER
