@@ -1,0 +1,27 @@
+	local-zone: "aappatey.com" redirect
+  local-data: "aappatey.com 3600 IN A 0.0.0.0"
+  local-zone: "aff3trk.com" redirect
+  local-data: "aff3trk.com 3600 IN A 0.0.0.0"
+  local-zone: "bingoplanet.com.tw" redirect
+  local-data: "bingoplanet.com.tw 3600 IN A 0.0.0.0"
+  local-zone: "deaholid.online" redirect
+  local-data: "deaholid.online 3600 IN A 0.0.0.0"
+  local-zone: "gvbkopdf.life" redirect
+  local-data: "gvbkopdf.life 3600 IN A 0.0.0.0"
+  local-zone: "gvdxop.xyz" redirect
+  local-data: "gvdxop.xyz 3600 IN A 0.0.0.0"
+  local-zone: "holybaby.com.tw" redirect
+  local-data: "holybaby.com.tw 3600 IN A 0.0.0.0"
+  local-zone: "impresivedate.com" redirect
+  local-data: "impresivedate.com 3600 IN A 0.0.0.0"
+  local-zone: "ixtlahuacan.gob.mx" redirect
+  local-data: "ixtlahuacan.gob.mx 3600 IN A 0.0.0.0"
+  local-zone: "lackadaisical-invented-tuck.glitch.me" redirect
+  local-data: "lackadaisical-invented-tuck.glitch.me 3600 IN A 0.0.0.0"
+  local-zone: "lovebabyonline.com" redirect
+  local-data: "lovebabyonline.com 3600 IN A 0.0.0.0"
+  local-zone: "moongallery.com.tw" redirect
+  local-data: "moongallery.com.tw 3600 IN A 0.0.0.0"
+  local-zone: "scoenterprise.com" redirect
+  local-data: "scoenterprise.com 3600 IN A 0.0.0.0"
+
