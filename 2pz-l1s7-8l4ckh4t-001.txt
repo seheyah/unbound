@@ -1,3 +1,5 @@
+  local-zone: "aappatey.com" redirect
+  local-data: "aappatey.com 3600 IN A 0.0.0.0"
   local-zone: "aff3trk.com" redirect
   local-data: "aff3trk.com 3600 IN A 0.0.0.0"
   local-zone: "bingoplanet.com.tw" redirect
