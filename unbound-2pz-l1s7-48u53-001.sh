@@ -1,6 +1,6 @@
 #!/bin/ksh
 ####### unbound-2pz-l1s7-48u53-001.sh
-### AUTHOR:	C0rvuscorax
+### AUTHOR:	seheyah
 ### CREATION:	2023/02/22
 
 ### DATE: 20//
