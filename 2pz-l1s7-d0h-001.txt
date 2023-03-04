@@ -1,0 +1,20 @@
+$TTL 3600
+@ IN SOA localhost. root.localhost. (20220820050001 10800 604800 7200)
+  IN NS  localhost.
+
+cloudflare-dns.com CNAME .
+dns.dns-over-https.com CNAME .
+dns.dnsoverhttps.net CNAME .
+dns.google CNAME .
+dns.rubyfish.cn CNAME .
+dns9.quad9.net CNAME .
+dns10.quad9.net CNAME .
+doh.captnemo.in CNAME .
+doh.cleanbrowsing.org CNAME .
+doh.crypto.sx CNAME .
+doh.dnswarden.com CNAME .
+doh-jp.blahdns.com CNAME .
+doh.powerdns.org CNAME .
+doh.securedns.eu CNAME .
+doh.tiar.app CNAME .
+
