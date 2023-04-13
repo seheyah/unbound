@@ -2,5 +2,13 @@ $TTL 3600
 @ IN SOA localhost. root.localhost. (20230304190000 10800 604800 7200)
   IN NS  localhost.
 
+blog.kinkoid.com CNAME .
 btserourssyshjasugin.weebly.com CNAME .
+creative.xlirdr.com CNAME .
+go.xlirdir.com CNAME .
 dop.opmknbf.com CNAME .
+mtss.bol-south.org CNAME .
+tpxx.z13.web.core.windows.net CNAME .
+video.hpyrdr.com CNAME .
+video.ktkjmp.com CNAME .
+www.pornstarharem.com CNAME .
