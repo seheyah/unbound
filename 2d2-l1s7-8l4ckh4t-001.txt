@@ -1,27 +1,39 @@
-	local-zone: "aappatey.com" redirect
-  local-data: "aappatey.com 3600 IN A 0.0.0.0"
-  local-zone: "aff3trk.com" redirect
-  local-data: "aff3trk.com 3600 IN A 0.0.0.0"
-  local-zone: "bingoplanet.com.tw" redirect
-  local-data: "bingoplanet.com.tw 3600 IN A 0.0.0.0"
-  local-zone: "deaholid.online" redirect
-  local-data: "deaholid.online 3600 IN A 0.0.0.0"
-  local-zone: "gvbkopdf.life" redirect
-  local-data: "gvbkopdf.life 3600 IN A 0.0.0.0"
-  local-zone: "gvdxop.xyz" redirect
-  local-data: "gvdxop.xyz 3600 IN A 0.0.0.0"
-  local-zone: "holybaby.com.tw" redirect
-  local-data: "holybaby.com.tw 3600 IN A 0.0.0.0"
-  local-zone: "impresivedate.com" redirect
-  local-data: "impresivedate.com 3600 IN A 0.0.0.0"
-  local-zone: "ixtlahuacan.gob.mx" redirect
-  local-data: "ixtlahuacan.gob.mx 3600 IN A 0.0.0.0"
-  local-zone: "lackadaisical-invented-tuck.glitch.me" redirect
-  local-data: "lackadaisical-invented-tuck.glitch.me 3600 IN A 0.0.0.0"
-  local-zone: "lovebabyonline.com" redirect
-  local-data: "lovebabyonline.com 3600 IN A 0.0.0.0"
-  local-zone: "moongallery.com.tw" redirect
-  local-data: "moongallery.com.tw 3600 IN A 0.0.0.0"
-  local-zone: "scoenterprise.com" redirect
-  local-data: "scoenterprise.com 3600 IN A 0.0.0.0"
+	local-zone: "aappatey.com." always_nxdomain
+	local-zone: "adobe-l.com." always_nxdomain
+	local-zone: "aff3trk.com." always_nxdomain
+	local-zone: "bingoplanet.com.tw." always_nxdomain
+	local-zone: "bitwarden-t.com." always_nxdomain
+	local-zone: "cashbyreward.in." always_nxdomain
+	local-zone: "cclearner.com." always_nxdomain
+	local-zone: "chatgpt-t.com." always_nxdomain
+	local-zone: "deaholid.online." always_nxdomain
+	local-zone: "esentai-gourmet.kz." always_nxdomain
+	local-zone: "freecad-l.com." always_nxdomain
+	local-zone: "gameindikdowd.ru." always_nxdomain
+	local-zone: "gimp-t.com." always_nxdomain
+	local-zone: "gvbkopdf.life." always_nxdomain
+	local-zone: "gvdxop.xyz." always_nxdomain
+	local-zone: "holybaby.com.tw." always_nxdomain
+        local-zone: "impresivedate.com." always_nxdomain
+	local-zone: "isoridkf.ru." always_nxdomain
+	local-zone: "iujdhsndjfks.ru." always_nxdomain
+	local-zone: "ixtlahuacan.gob.mx." always_nxdomain
+	local-zone: "jhgfdlkjhaoiu.su." always_nxdomain
+	local-zone: "lackadaisical-invented-tuck.glitch.me." always_nxdomain
+	local-zone: "linkforthebestupdating.info." always_nxdomain
+	local-zone: "lovebabyonline.com." always_nxdomain
+	local-zone: "mfglogged.buzz." always_nxdomain
+	local-zone: "microso-t.com." always_nxdomain
+	local-zone: "moongallery.com.tw." always_nxdomain
+	local-zone: "orafukz.xyz." always_nxdomain
+	local-zone: "pixelarmada.su." always_nxdomain
+	local-zone: "quickbooks-q.com." always_nxdomain
+	local-zone: "reggy506.ru." always_nxdomain
+	local-zone: "reggy914.ru." always_nxdomain
+	local-zone: "scoenterprise.com." always_nxdomain
+	local-zone: "shvarcnegerhistory.com." always_nxdomain
+	local-zone: "spotify-uss.com." always_nxdomain
+	local-zone: "uelcoskdi.ru." always_nxdomain
+	local-zone: "visualstudio-t.com." always_nxdomain
+	local-zone: "zoomvideor.com." always_nxdomain
 
