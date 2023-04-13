@@ -1,33 +1,24 @@
-	local-zone: "alerte-espace-urgences.net" redirect
-	local-data: "alerte-espace-urgences.net 3600 IN A 0.0.0.0"
-	local-zone: "amelicontact.org" redirect
-	local-data: "amelicontact.org 3600 IN A 0.0.0.0"
-	local-zone: "antai-amendes-gouv.org" redirect
-	local-data: "antai-amendes-gouv.org 3600 A 0.0.0.0"
-	local-zone: "antai-infraction-gouv-paiement.net" redirect
-	local-data: "antai-infraction-gouv-paiement.net 3600 IN A 0.0.0.0"
-	local-zone: "app-chronopost.com" redirect
-	local-data: "app-chronopost.com 3600 IN A 0.0.0.0"
-	local-zone: "compte-support-france.com" redirect
-	local-data: "compte-support-france.com 3600 IN A 0.0.0.0"
-	local-zone: "chronopost-mobile.com" redirect
-	local-data: "chronopost-mobile.com 3600 IN A 0.0.0.0"
-	local-zone: "critair-paiement-gouv.net" redirect
-	local-data: "critair-paiement-gouv.net 3600 IN A 0.0.0.0"
-	local-zone: "critair-verification-gouv.net" redirect
-	local-data: "critair-verification-gouv.net 3600 IN A 0.0.0.0"
-	local-zone: "mavignette-critair.info" redirect
-	local-data: "mavignette-critair.info 3600 IN A 0.0.0.0"
-	local-zone: "mon-espacenetflix.com" redirect
-        local-data: "mon-espacenetflix.com 3600 IN A 0.0.0.0"
-	local-zone: "monespace-tv.com" redirect
-	local-data: "monespace-tv.com 3600 IN A 0.0.0.0"
-	local-zone: "paiement-contravention-gouv.com" redirect
-        local-data: "paiement-contravention-gouv.com 3600 IN A 0.0.0.0"
-	local-zone: "sfr-commande-e-sim.com" redirect
-        local-data: "sfr-commande-e-sim.com 3600 IN A 0.0.0.0"
-	local-zone: "sfresim.net" redirect
-	local-data: "sfresim.net 3600 IN A 0.0.0.0"
-	local-zone: "suivrecolischronopost.info" redirect
-	local-data: "suivrecolischronopost.info 3600 IN A 0.0.0.0"
-
+	local-zone: "alerte-espace-urgences.net." always_nxdomain
+        local-zone: "amelicontact.org." always_nxdomain
+        local-zone: "antai-amendes-gouv.org." always_nxdomain
+        local-zone: "antai-infraction-gouv-paiement.net." always_nxdomain
+        local-zone: "antai-portail-gouv.com." always_nxdomain
+        local-zone: "app-chronopost.com." always_nxdomain
+        local-zone: "chequeboisfioul.asp-public.fr" always_nxdomain
+        local-zone: "chronopost-mobile.com." always_nxdomain
+        local-zone: "compte-support-france.com." always_nxdomain
+        local-zone: "critair-paiement-gouv.net." always_nxdomain
+        local-zone: "critair-verification-gouv.net." always_nxdomain
+        local-zone: "infraction-dossier.com." always_nxdomain
+        local-zone: "mavignette-critair.info." always_nxdomain
+        local-zone: "mon-espacenetflix.com." always_nxdomain
+        local-zone: "monespace-tv.com." always_nxdomain
+        local-zone: "rm-contentieux.com." always_nxdomain
+        local-zone: "rubrique-livraison.com." always_nxdomain
+        local-zone: "paiement-contravention-gouv.com." always_nxdomain
+        local-zone: "sfr-commande-e-sim.com." always_nxdomain
+        local-zone: "sfresim.net." always_nxdomain
+        local-zone: "suivre-mes-amendes.com." always_nxdomain
+        local-zone: "suivrecolischronopost.info." always_nxdomain
+	
+	
