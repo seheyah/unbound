@@ -4,7 +4,7 @@
         local-zone: "antai-infraction-gouv-paiement.net." always_nxdomain
         local-zone: "antai-portail-gouv.com." always_nxdomain
         local-zone: "app-chronopost.com." always_nxdomain
-        local-zone: "chequeboisfioul.asp-public.fr" always_nxdomain
+        local-zone: "chequeboisfioul.asp-public.fr." always_nxdomain
         local-zone: "chronopost-mobile.com." always_nxdomain
         local-zone: "compte-support-france.com." always_nxdomain
         local-zone: "critair-paiement-gouv.net." always_nxdomain
