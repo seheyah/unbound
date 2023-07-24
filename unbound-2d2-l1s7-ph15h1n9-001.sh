@@ -3,9 +3,9 @@
 ### AUTHOR:	seheyah
 ### CREATION:	2022/08/21
 
-### DATE: 20//
+### DATE: 2023/07/24
 ### UPDATE:
-#
+#	Change redirect to always_nxdomain
 
 ### CONSTANT
 # ARRAY
@@ -54,8 +54,7 @@ else
 	cat $filetmp01 | awk '{ print $1 }' > $filetmp02
 
 	while read line; do
-		echo "\tlocal-zone: \"$line\" redirect" >> $filetmp03
-		echo "\tlocal-data: \"$line 3600 IN A 0.0.0.0\"" >> $filetmp03
+ 		echo "\tlocal-zone: \"$line.\" always_nxdomain" >> $filetmp03
 	done < $filetmp02
 
 	echo "" >> $filetmp03
