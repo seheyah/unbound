@@ -1,39 +1,134 @@
+	local-zone: "10minions.top." always_nxdomain
+	local-zone: "8videoabc.top." always_nxdomain
 	local-zone: "aappatey.com." always_nxdomain
 	local-zone: "adobe-l.com." always_nxdomain
 	local-zone: "aff3trk.com." always_nxdomain
+	local-zone: "airbusco.net." always_nxdomain
+	local-zone: "aklub.com." always_nxdomain
+	local-zone: "albumimages.top." always_nxdomain
+	local-zone: "albumpga.top." always_nxdomain
+	local-zone: "albumphotography.top." always_nxdomain
+	local-zone: "albumphotoshow.top." always_nxdomain
+	local-zone: "appgratis.space." always_nxdomain
+	local-zone: "asyncfox.xyz." always_nxdomain
+	local-zone: "attachment.mailstorage.site." always_nxdomain
+	local-zone: "audsystemecll.net." always_nxdomain
+	local-zone: "auuditoe.com." always_nxdomain
+	local-zone: "best-pc-games.net." always_nxdomain
 	local-zone: "bingoplanet.com.tw." always_nxdomain
 	local-zone: "bitwarden-t.com." always_nxdomain
+	local-zone: "blockcentersys.net." always_nxdomain
+	local-zone: "brendonline.com." always_nxdomain
+	local-zone: "building4business.net." always_nxdomain
+	local-zone: "buyadvisershop.net." always_nxdomain
+	local-zone: "buzzybeet.net." always_nxdomain
 	local-zone: "cashbyreward.in." always_nxdomain
+	local-zone: "caspercan.com." always_nxdomain
 	local-zone: "cclearner.com." always_nxdomain
+	local-zone: "cdn.albumcallgirl.top." always_nxdomain
+	local-zone: "chaesik.com." always_nxdomain
+	local-zone: "channel.today-breakingnews.com." always_nxdomain
+	local-zone: "chatgpt-premium.com." always_nxdomain
 	local-zone: "chatgpt-t.com." always_nxdomain
+	local-zone: "clearsystemwo.net." always_nxdomain
+	local-zone: "cloudwebstartcloudwebstart.net." always_nxdomain
+	local-zone: "cloudworldst.net." always_nxdomain
 	local-zone: "deaholid.online." always_nxdomain
 	local-zone: "esentai-gourmet.kz." always_nxdomain
+	local-zone: "essentialdrivers.org." always_nxdomain
+	local-zone: "f0837288.xsph.ru." always_nxdomain
 	local-zone: "freecad-l.com." always_nxdomain
 	local-zone: "gameindikdowd.ru." always_nxdomain
+	local-zone: "gift4animals.com." always_nxdomain
 	local-zone: "gimp-t.com." always_nxdomain
+	local-zone: "globalsalestore.com." always_nxdomain
 	local-zone: "gvbkopdf.life." always_nxdomain
 	local-zone: "gvdxop.xyz." always_nxdomain
 	local-zone: "holybaby.com.tw." always_nxdomain
-        local-zone: "impresivedate.com." always_nxdomain
+	local-zone: "image-albums.com." always_nxdomain
+	local-zone: "impresivedate.com." always_nxdomain
+	local-zone: "investmendvisor.net." always_nxdomain
+	local-zone: "investmentrealtyhp.net." always_nxdomain
+	local-zone: "ionoslaba.com." always_nxdomain
 	local-zone: "isoridkf.ru." always_nxdomain
 	local-zone: "iujdhsndjfks.ru." always_nxdomain
 	local-zone: "ixtlahuacan.gob.mx." always_nxdomain
+	local-zone: "jaydradels.com." always_nxdomain
 	local-zone: "jhgfdlkjhaoiu.su." always_nxdomain
+	local-zone: "karmafisker.com." always_nxdomain
+	local-zone: "kolinileas.com." always_nxdomain
+	local-zone: "kolinileas.net." always_nxdomain
+	local-zone: "kudaqq.com." always_nxdomain
 	local-zone: "lackadaisical-invented-tuck.glitch.me." always_nxdomain
+	local-zone: "leakonlyfan.top." always_nxdomain
 	local-zone: "linkforthebestupdating.info." always_nxdomain
 	local-zone: "lovebabyonline.com." always_nxdomain
+	local-zone: "lydownload.net." always_nxdomain
 	local-zone: "mfglogged.buzz." always_nxdomain
 	local-zone: "microso-t.com." always_nxdomain
+	local-zone: "monitorsystem.net." always_nxdomain
+	local-zone: "monitor-websystemcloudwebstart.net." always_nxdomain
+	local-zone: "monitor-websystem.net." always_nxdomain
 	local-zone: "moongallery.com.tw." always_nxdomain
+	local-zone: "movies-box.net." always_nxdomain
+	local-zone: "movies-cine.com." always_nxdomain
+	local-zone: "myafarisha.com." always_nxdomain
+	local-zone: "mynewbee.net." always_nxdomain
+	local-zone: "myprivatephotoalbum.top." always_nxdomain
+	local-zone: "naver.com.de." always_nxdomain
+	local-zone: "nctitds.top." always_nxdomain
+	local-zone: "neobeelab.net." always_nxdomain
+	local-zone: "nutiensel.com." always_nxdomain
+	local-zone: "office-2023.com." always_nxdomain
 	local-zone: "orafukz.xyz." always_nxdomain
+	local-zone: "pa688.top." always_nxdomain
+	local-zone: "photoandfilms.com." always_nxdomain
+	local-zone: "photography-hq.com." always_nxdomain
+	local-zone: "pictures-album.com." always_nxdomain
 	local-zone: "pixelarmada.su." always_nxdomain
+	local-zone: "prettyanimals.net." always_nxdomain
 	local-zone: "quickbooks-q.com." always_nxdomain
+	local-zone: "reelsysmoona.net." always_nxdomain
 	local-zone: "reggy506.ru." always_nxdomain
 	local-zone: "reggy914.ru." always_nxdomain
+	local-zone: "samsunggalaxynote.com." always_nxdomain
+	local-zone: "schosun.newspad.info." always_nxdomain
+	local-zone: "schumacherbar.com." always_nxdomain
 	local-zone: "scoenterprise.com." always_nxdomain
+	local-zone: "segye.newspad.info." always_nxdomain
+	local-zone: "septcntr.com." always_nxdomain
 	local-zone: "shvarcnegerhistory.com." always_nxdomain
+	local-zone: "skmib.newspad.info." always_nxdomain
+	local-zone: "sluter.top." always_nxdomain
+	local-zone: "snewdaily.newspad.info." always_nxdomain
+	local-zone: "sportydesktops.com." always_nxdomain
 	local-zone: "spotify-uss.com." always_nxdomain
+	local-zone: "startupbizaud.net." always_nxdomain
+	local-zone: "startuptechnologyw.net." always_nxdomain
+	local-zone: "steamteamdev.net." always_nxdomain
+	local-zone: "stockinvestlab.net." always_nxdomain
+	local-zone: "syonhap.newspad.info." always_nxdomain
+	local-zone: "team-meeting.pro." always_nxdomain
+	local-zone: "team-meet.xyz." always_nxdomain
+	local-zone: "techvibeo.com." always_nxdomain
+	local-zone: "trailgroupl.net." always_nxdomain
+	local-zone: "treeauwin.net." always_nxdomain
 	local-zone: "uelcoskdi.ru." always_nxdomain
+	local-zone: "videocallgirl.top." always_nxdomain
+	local-zone: "videovip.org." always_nxdomain
+	local-zone: "videox-hamster.top." always_nxdomain
 	local-zone: "visualstudio-t.com." always_nxdomain
+	local-zone: "wardeli.com." always_nxdomain
+	local-zone: "welausystem.net." always_nxdomain
+	local-zone: "wellsystemte.net." always_nxdomain
+	local-zone: "wqvkifcqf.com." always_nxdomain
+	local-zone: "www-x-videos.com." always_nxdomain
+	local-zone: "x-album.com." always_nxdomain
+	local-zone: "x-albums.com." always_nxdomain
+	local-zone: "x-photobucket.top." always_nxdomain
+	local-zone: "xphotos-album.com." always_nxdomain
+	local-zone: "x-photos.net." always_nxdomain
+	local-zone: "x-picture.net." always_nxdomain
+	local-zone: "xpictures-albums.com." always_nxdomain
+	local-zone: "xpictures.net." always_nxdomain
 	local-zone: "zoomvideor.com." always_nxdomain
-
