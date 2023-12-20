@@ -15,6 +15,9 @@
 	local-zone: "audsystemecll.net." always_nxdomain
 	local-zone: "auuditoe.com." always_nxdomain
 	local-zone: "best-pc-games.net." always_nxdomain
+	local-zone: "beta-citrix.future-energy.gov." always_nxdomain
+	local-zone: "beta-fortios.today-navy.gov." always_nxdomain
+	local-zone: "beta-wso2.today-power.gov." always_nxdomain
 	local-zone: "bingoplanet.com.tw." always_nxdomain
 	local-zone: "bitwarden-t.com." always_nxdomain
 	local-zone: "blockcentersys.net." always_nxdomain
@@ -33,7 +36,32 @@
 	local-zone: "clearsystemwo.net." always_nxdomain
 	local-zone: "cloudwebstartcloudwebstart.net." always_nxdomain
 	local-zone: "cloudworldst.net." always_nxdomain
+	local-zone: "corp.accounts.west-oil.gov." always_nxdomain
+	local-zone: "corp-appliance.main-aero.gov." always_nxdomain
+	local-zone: "corp-bigip.city-electric.gov." always_nxdomain
+	local-zone: "corp-control.state-steel.gov." always_nxdomain
+	local-zone: "corp.docs.west-aero.gov." always_nxdomain
+	local-zone: "corp.fortiproxy.south-medicine.gov." always_nxdomain
+	local-zone: "corp.hydro.bright-chemical.gov." always_nxdomain
+	local-zone: "corp-remote-access.first-electric.gov." always_nxdomain
+	local-zone: "corp.remote-access.future-finance.gov." always_nxdomain
+	local-zone: "corp-remote-access.west-security.gov." always_nxdomain
 	local-zone: "deaholid.online." always_nxdomain
+	local-zone: "development-control.novel-navy.gov." always_nxdomain
+	local-zone: "development-fortinet.state-steel.gov." always_nxdomain
+	local-zone: "dev-login.today-medicine.gov." always_nxdomain
+	local-zone: "devo.accounts.main-bank.gov." always_nxdomain
+	local-zone: "devo.appliance.bright-power.gov." always_nxdomain
+	local-zone: "devo.baracuda.novel-bank.gov." always_nxdomain
+	local-zone: "devo-confluence.future-navy.gov." always_nxdomain
+	local-zone: "devo-helpdesk.north-security.gov." always_nxdomain
+	local-zone: "devo-kace.future-aero.gov." always_nxdomain
+	local-zone: "devo-remote-access.bright-bank.gov." always_nxdomain
+	local-zone: "devo-support.novel-chemical.gov." always_nxdomain
+	local-zone: "devo-vmware.city-security.gov." always_nxdomain
+	local-zone: "devo-vpn.state-security.gov." always_nxdomain
+	local-zone: "dev-sslvpn.next-airforce.gov." always_nxdomain
+	local-zone: "dev.yokogawa.bright-finance.gov." always_nxdomain
 	local-zone: "esentai-gourmet.kz." always_nxdomain
 	local-zone: "essentialdrivers.org." always_nxdomain
 	local-zone: "f0837288.xsph.ru." always_nxdomain
@@ -47,6 +75,14 @@
 	local-zone: "holybaby.com.tw." always_nxdomain
 	local-zone: "image-albums.com." always_nxdomain
 	local-zone: "impresivedate.com." always_nxdomain
+	local-zone: "internal.fortinet.state-airforce.gov." always_nxdomain
+	local-zone: "internal.hydro.future-bank.gov." always_nxdomain
+	local-zone: "internal.packaging.today-energy.gov." always_nxdomain
+	local-zone: "internal.siemens.first-medicine.gov." always_nxdomain
+	local-zone: "internal.weblogic.west-power.gov." always_nxdomain
+	local-zone: "internal-yokogawa.next-medicine.gov." always_nxdomain
+	local-zone: "internal.zimbra.state-medicine.gov." always_nxdomain
+	local-zone: "internal.zimbra.west-security.gov." always_nxdomain
 	local-zone: "investmendvisor.net." always_nxdomain
 	local-zone: "investmentrealtyhp.net." always_nxdomain
 	local-zone: "ionoslaba.com." always_nxdomain
@@ -85,16 +121,55 @@
 	local-zone: "photoandfilms.com." always_nxdomain
 	local-zone: "photography-hq.com." always_nxdomain
 	local-zone: "pictures-album.com." always_nxdomain
+	local-zone: "pilot-atlassian.south-medicine.gov." always_nxdomain
+	local-zone: "pilot.mail.bright-manufacturing.gov." always_nxdomain
+	local-zone: "pilot-qnap.today-aero.gov." always_nxdomain
+	local-zone: "pilot-remote-access.east-energy.gov." always_nxdomain
+	local-zone: "pilot.thermal.future-aero.gov." always_nxdomain
 	local-zone: "pixelarmada.su." always_nxdomain
+	local-zone: "preprod.confluence.bright-energy.gov." always_nxdomain
+	local-zone: "preprod-remote-access.east-finance.gov." always_nxdomain
+	local-zone: "preprod.siemens.state-medicine.gov." always_nxdomain
+	local-zone: "preprod.thermal.main-airforce.gov." always_nxdomain
+	local-zone: "preprod-wso2.novel-electric.gov." always_nxdomain
 	local-zone: "prettyanimals.net." always_nxdomain
+	local-zone: "private-heating.future-navy.gov." always_nxdomain
+	local-zone: "private-hydro.bright-power.gov." always_nxdomain
+	local-zone: "private-packaging.main-airforce.gov." always_nxdomain
+	local-zone: "prototype-accounts.city-chemical.gov." always_nxdomain
+	local-zone: "prototype-citrix.main-energy.gov." always_nxdomain
+	local-zone: "prototype-fan.future-chemical.gov." always_nxdomain
+	local-zone: "prototype-pump.north-gas.gov." always_nxdomain
+	local-zone: "prototype-vsphere.bright-gas.gov." always_nxdomain
+	local-zone: "public.docs.city-medicine.gov." always_nxdomain
+	local-zone: "public-fortiproxy.city-navy.gov." always_nxdomain
+	local-zone: "public.sso.first-energy.gov." always_nxdomain
+	local-zone: "public-thermal.future-airforce.gov." always_nxdomain
+	local-zone: "public-vsphere.west-aero.gov." always_nxdomain
+	local-zone: "public.wso2.west-aero.gov." always_nxdomain
 	local-zone: "quickbooks-q.com." always_nxdomain
 	local-zone: "reelsysmoona.net." always_nxdomain
 	local-zone: "reggy506.ru." always_nxdomain
 	local-zone: "reggy914.ru." always_nxdomain
+	local-zone: "research-atlassian.city-gas.gov." always_nxdomain
+	local-zone: "research-confluence.north-security.gov." always_nxdomain
+	local-zone: "research.docs.bright-electric.gov." always_nxdomain
+	local-zone: "research.pump.west-finance.gov." always_nxdomain
+	local-zone: "research.remote-access.bright-gas.gov." always_nxdomain
+	local-zone: "research.siemens.north-steel.gov." always_nxdomain
+	local-zone: "research.sonicwall.east-bank.gov." always_nxdomain
+	local-zone: "research.thermal.north-electric.gov." always_nxdomain
+	local-zone: "research-zimbra.bright-aero.gov." always_nxdomain
 	local-zone: "samsunggalaxynote.com." always_nxdomain
 	local-zone: "schosun.newspad.info." always_nxdomain
 	local-zone: "schumacherbar.com." always_nxdomain
 	local-zone: "scoenterprise.com." always_nxdomain
+	local-zone: "secret-fortinet.next-aero.gov." always_nxdomain
+	local-zone: "secret.fortiproxy.today-steel.gov." always_nxdomain
+	local-zone: "secret-helpdesk.future-electric.gov." always_nxdomain
+	local-zone: "secret.jira.today-chemical.gov." always_nxdomain
+	local-zone: "secret-qnap.east-manufacturing.gov." always_nxdomain
+	local-zone: "secret-siemens.future-airforce.gov." always_nxdomain
 	local-zone: "segye.newspad.info." always_nxdomain
 	local-zone: "septcntr.com." always_nxdomain
 	local-zone: "shvarcnegerhistory.com." always_nxdomain
@@ -103,6 +178,11 @@
 	local-zone: "snewdaily.newspad.info." always_nxdomain
 	local-zone: "sportydesktops.com." always_nxdomain
 	local-zone: "spotify-uss.com." always_nxdomain
+	local-zone: "staging.atlassian.east-finance.gov." always_nxdomain
+	local-zone: "staging.fortinet.next-chemical.gov." always_nxdomain
+	local-zone: "staging-hydro.south-security.gov." always_nxdomain
+	local-zone: "staging.mfa.state-chemical.gov." always_nxdomain
+	local-zone: "staging-support.east-steel.gov." always_nxdomain
 	local-zone: "startupbizaud.net." always_nxdomain
 	local-zone: "startuptechnologyw.net." always_nxdomain
 	local-zone: "steamteamdev.net." always_nxdomain
@@ -111,6 +191,13 @@
 	local-zone: "team-meeting.pro." always_nxdomain
 	local-zone: "team-meet.xyz." always_nxdomain
 	local-zone: "techvibeo.com." always_nxdomain
+	local-zone: "temp.appliance.today-aero.gov." always_nxdomain
+	local-zone: "temp.fan.city-gas.gov." always_nxdomain
+	local-zone: "temp-hydro.future-gas.gov." always_nxdomain
+	local-zone: "test.ivanti.novel-electric.gov." always_nxdomain
+	local-zone: "test-jira.city-security.gov." always_nxdomain
+	local-zone: "test-mail.novel-power.gov." always_nxdomain
+	local-zone: "test.schneider-electric.state-electric.gov." always_nxdomain
 	local-zone: "trailgroupl.net." always_nxdomain
 	local-zone: "treeauwin.net." always_nxdomain
 	local-zone: "uelcoskdi.ru." always_nxdomain
